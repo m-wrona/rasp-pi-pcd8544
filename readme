@@ -1,0 +1,2 @@
+Sample usage of PCD 8544 controller in Nokia 5110 led display using rasperry pi.
+Exercise done using existing goodies for rasp-pi (i.e. wiringPi etc.).
